@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rewant Raj
-- 👀 I’m interested in Robotics
+- 👀 I’m interested in Robotics , Machine Learning and Web Developement
 - 🌱 I’m currently learning Machine Learning and wab Developement from Coursera
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
